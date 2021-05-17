@@ -1,0 +1,5 @@
+FROM test:latest
+
+VOLUME /my-data
+
+CMD /bin/bash
